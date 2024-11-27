@@ -6,3 +6,7 @@ Harina
 Sal
 Pimienta
 Carne
+Hamburguesa
+Ketchup
+Mayonesa
+Cheddar
