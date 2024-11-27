@@ -1,3 +1,7 @@
 Papa
 Tomate
 Huevo
+Hamburguesa
+Ketchup
+Mayonesa
+Cheddar
