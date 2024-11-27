@@ -1,3 +1,8 @@
 Papa
 Tomate
 Huevo
+Queso
+Harina
+Sal
+Pimienta
+Carne
